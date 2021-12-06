@@ -1,0 +1,11 @@
+Sdasad,15,En Revision,4242255942
+Sdsad,15,Infectado,{'Calle': 'Paris', 'Municipio': 'chacao', 'Ciudad': 'caracas', 'Estado: ': 'maracibo'},juan perez
+Asfdsads,15,No Infectado,4242255942
+Asdsa,15,No Infectado,4242255942
+Asdsa,15,No Infectado,4242255942
+Asdsdsad,45,Infectado,{'Calle': 'asds', 'Municipio': 'asd', 'Ciudad': 'asds', 'Estado: ': 'sdsdsa'},ssd
+Jesus,15,Infectado,{'Calle': 'sadsa', 'Municipio': 'asdsadasd', 'Ciudad': 'asddsa', 'Estado: ': 'asd'},adsd
+Sadas,4,Posible Infectado,{'Calle': 'sdas', 'Municipio': 'dasd', 'Ciudad': 'dadad', 'Estado: ': 'sdsa'}
+Sdas,45,No Infectado,4242255942
+Jesus Rios,18,Posible Infectado,{'Calle': 'Paris', 'Municipio': 'sucre', 'Ciudad': 'Caracas', 'Estado: ': 'Distrito Capital'}
+Jesus,18,Posible Infectado,Calle: primero de mayo, Municipio: sucre, Ciudad: chacao, Estado: miranda
